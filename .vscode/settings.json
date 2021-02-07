@@ -1,3 +1,13 @@
 {
-  "oneDarkPro.editorTheme": "oneDarkPro"
+  "oneDarkPro.editorTheme": "oneDarkPro",
+  "workbench.colorTheme": "Bluloco Light",
+  "workbench.colorCustomizations": {
+    "[Bluloco Light]": {
+      "activityBar.background": "#cac9c9",
+      "editor.background": "#cac9c9",
+      "editor.foreground": "#323232",
+      "editorLineNumber.foreground": "#323232",
+    }
+  },
+  "editor.tabSize": 2,
 }
